@@ -1,0 +1,14 @@
+# Resume and Base data stay local; only deliberately named examples may be committed.
+*.json
+!package.json
+!agent-dev.example.json
+!archive.config.example.json
+!extension/manifest.json
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.csv
+node_modules/
+.DS_Store

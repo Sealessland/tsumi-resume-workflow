@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "schemaVersion": 12
+  },
+  "profile": {
+    "name": "示例候选人",
+    "title": "软件工程师（示例）",
+    "phone": "000-0000-0000",
+    "email": "candidate@example.invalid",
+    "website": "https://example.invalid",
+    "personalDetails": [
+      {
+        "id": "personal-detail-1",
+        "label": "语言能力",
+        "value": "示例内容"
+      }
+    ],
+    "photo": "",
+    "photoMeta": null,
+    "politicalAffiliation": "",
+    "showPoliticalAffiliation": false
+  },
+  "educations": [
+    {
+      "id": "education-1",
+      "hidden": false,
+      "logo": "",
+      "school": "示例大学",
+      "degree": "示例学位",
+      "major": "示例专业",
+      "studyPeriod": "20XX-20XX"
+    }
+  ],
+  "skills": "**编程语言**：示例语言 A、示例语言 B。\n**工程工具**：示例工具 A、示例工具 B。",
+  "internships": [],
+  "researchExperiences": [],
+  "projects": [
+    {
+      "id": "project-example",
+      "hidden": false,
+      "name": "示例项目",
+      "role": "示例角色",
+      "period": "20XX.XX-20XX.XX",
+      "tags": "示例技术 A, 示例技术 B",
+      "summary": "这是用于演示简历版式的虚构项目内容。",
+      "highlights": "**示例职责**：描述一项虚构的工程职责。\n**示例结果**：描述一项不含真实数据的虚构结果。",
+      "repoUrl": "https://example.invalid/project"
+    }
+  ],
+  "studentExperiences": [],
+  "customImages": [],
+  "awards": [],
+  "certificates": [],
+  "selfSummary": {
+    "content": "这是用于演示简历版式的虚构自我介绍，不代表任何真实人物。",
+    "hidden": false
+  },
+  "sectionVisibility": {
+    "profile": true,
+    "education": true,
+    "skills": true,
+    "internships": false,
+    "researchExperiences": true,
+    "projects": true,
+    "studentExperiences": true,
+    "customImages": true,
+    "awards": false,
+    "certificates": false,
+    "selfSummary": true
+  },
+  "layout": {
+    "order": [
+      "skills",
+      "projects",
+      "internships",
+      "selfSummary",
+      "awards",
+      "certificates",
+      "researchExperiences",
+      "studentExperiences",
+      "customImages"
+    ]
+  },
+  "theme": {
+    "primaryColor": "#2563eb",
+    "nameColor": "",
+    "schoolColor": "",
+    "nameFont": "sans",
+    "nameFontSize": 18,
+    "schoolFont": "sans",
+    "schoolFontSize": 13,
+    "skillsFontSize": 11.8,
+    "internshipSummaryFontSize": 11.8,
+    "internshipHighlightsFontSize": 11.8,
+    "internshipTimeFontSize": 12,
+    "internshipCompanyMetaFontSize": 13,
+    "internshipRoleFontSize": 13,
+    "projectSummaryFontSize": 11.8,
+    "projectHighlightsFontSize": 11.6,
+    "projectNameFontSize": 12.6,
+    "projectMetaFontSize": 11.5,
+    "projectTagFontSize": 11,
+    "studentNameFontSize": 13,
+    "studentMetaFontSize": 12,
+    "studentSummaryFontSize": 12.5,
+    "studentHighlightsFontSize": 12.5,
+    "awardTitleFontSize": 13,
+    "awardMetaFontSize": 12,
+    "awardDescriptionFontSize": 12.5,
+    "certificateTitleFontSize": 13,
+    "certificateMetaFontSize": 12,
+    "certificateDescriptionFontSize": 12.5,
+    "skillsLineHeight": 1.6,
+    "internshipSummaryLineHeight": 1.6,
+    "internshipHighlightsLineHeight": 1.6,
+    "projectSummaryLineHeight": 1.4,
+    "projectHighlightsLineHeight": 1.4,
+    "awardDescriptionLineHeight": 1.6,
+    "certificateDescriptionLineHeight": 1.6,
+    "selfSummaryLineHeight": 1.6,
+    "selfSummaryFontSize": 11.8,
+    "sectionGap": 10,
+    "educationLogoSize": 18,
+    "boldMajor": false,
+    "educationFirst": true,
+    "photoConfig": {
+      "width": 96,
+      "height": 96,
+      "ratio": "1:1",
+      "lockRatio": true
+    }
+  }
+}

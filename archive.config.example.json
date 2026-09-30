@@ -1,0 +1,14 @@
+{
+  "baseToken": "app_example_public_token",
+  "tableId": "tbl_example_archive_table",
+  "fieldIds": {
+    "公司": "fld_example_company",
+    "岗位": "fld_example_position",
+    "投递日期": "fld_example_applied_at",
+    "当前状态": "fld_example_status",
+    "下一步": "fld_example_next_step",
+    "下次跟进时间": "fld_example_follow_up_at",
+    "岗位链接": "fld_example_job_url",
+    "备注": "fld_example_note"
+  }
+}

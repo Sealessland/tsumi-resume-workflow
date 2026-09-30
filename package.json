@@ -1,0 +1,12 @@
+{
+  "name": "tsumi-resume-workflow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "resume:open": "node scripts/open-resume.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
